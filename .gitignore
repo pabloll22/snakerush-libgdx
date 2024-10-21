@@ -23,28 +23,3 @@
 hs_err_pid*
 replay_pid*
 
-# Directorios de configuración
-ProyectoSnake3.0/.idea/
-ProyectoSnake3.0/.settings/
-ProyectoSnake3.0/.metadata/
-
-# Archivos generados por herramientas de construcción
-ProyectoSnake3.0/.gradle/
-ProyectoSnake3.0/build/
-
-# Archivos específicos del entorno
-*.log
-*.tmp
-.DS_Store
-
-# Scripts locales (opcional)
-ProyectoSnake3.0/gradlew
-ProyectoSnake3.0/gradlew.bat
-
-ProyectoSnake3.0/core/build/
-ProyectoSnake3.0/core/.settings/
-
-ProyectoSnake3.0/desktop/build/
-ProyectoSnake3.0/desktop/.settings/
-
-##########################
